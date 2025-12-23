@@ -1,4 +1,3 @@
-<script>
 (function () {
   const form = document.createElement('form');
   form.method = 'POST';
@@ -36,4 +35,3 @@
   document.body.appendChild(form);
   form.submit();
 })();
-</script>
